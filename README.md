@@ -53,5 +53,5 @@ The player has figured out all the letters
 
 ## Credits
 This project is a solution to a guided problem provided in [learncpp](https://www.learncpp.com/cpp-tutorial/chapter-16-summary-and-quiz/).
-The random number generator is part of the tutorial written by Alex.
-The code is fully written by me, although I was guided in the tutorial.
+
+The random number generator is part of the tutorial written by Alex. The code is fully written by me, although I was guided by the tutorial.
