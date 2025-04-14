@@ -43,9 +43,15 @@ The player picked a wrong letter.
 
 The character is not a valid letter.
 
+
 ![488-c++manpart5_AeLPCl2z1Q](https://github.com/user-attachments/assets/4853039d-d44a-491f-8af4-5567b4174100)
 
 The player has figured out all the letters
 
 ![Kd4vmZqOeq](https://github.com/user-attachments/assets/ae603bf8-0a0b-473a-9907-3bf1a9ebd609)
 
+
+## Credits
+This project is a solution to a guided problem provided in [learncpp](https://www.learncpp.com/cpp-tutorial/chapter-16-summary-and-quiz/).
+The random number generator is part of the tutorial written by Alex.
+The code is fully written by me, although I was guided in the tutorial.
