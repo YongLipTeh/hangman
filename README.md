@@ -18,7 +18,7 @@ If you have not played this game, here are the rules for it.
 - The program will pick a word at random based on the database. Each word will be masked under an underscore.
 - The player wins if they can uncover all the alphabets and guess the word. 
 - The player loses if they run out of life.
-### Gameplay
+### Each turn
 - The player will guess a single letter, there is no limit how many letters they can guess, but they are limited by the amount of life they have.
 - If the player has already guessed the letter, it doesn't count. The player continues with the next letter.
 - If any of the input matches the underscore, the underscores will be replace with that letter, the play continues.
@@ -32,4 +32,20 @@ If you have not played this game, here are the rules for it.
 - This program is also robust enough to account for invalid inputs.
 - If more characters are keyed in, it will also be ignored.
 
+## Gameplay
+The welcome screen so the player keyed in a letter.
+
+![488-c++manpart5_m0DvbWffj7](https://github.com/user-attachments/assets/5c848426-d6aa-4f3c-add1-a8b105cba4bc)
+
+The player picked a wrong letter.
+
+![488-c++manpart5_H2kLp3o8ib](https://github.com/user-attachments/assets/4da5e483-ca12-44f1-92f2-cf8b4760633b)
+
+The character is not a valid letter.
+
+![488-c++manpart5_AeLPCl2z1Q](https://github.com/user-attachments/assets/4853039d-d44a-491f-8af4-5567b4174100)
+
+The player has figured out all the letters
+
+![Kd4vmZqOeq](https://github.com/user-attachments/assets/ae603bf8-0a0b-473a-9907-3bf1a9ebd609)
 
