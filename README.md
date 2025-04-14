@@ -8,11 +8,8 @@ A classic children word guessing game implemented in C++
 ## Platform
 This code has been compiled into many platforms depending on what OS you use.
 
-### Windows
-For Windows users, just run the executable and aterminal window will pop up.
-
-### macOS
-### Linux
+### Windows, macOS, Linux
+For all three platforms, you can play the game by simply running, as long as the platform matches the file
 
 ## How to Play this Game?
 If you have not played this game, here are the rules for it.
@@ -22,10 +19,10 @@ If you have not played this game, here are the rules for it.
 - The player wins if they can uncover all the alphabets and guess the word. 
 - The player loses if they run out of life.
 ### Gameplay
-- The player will guess a single letter, there is not limit of how many letters they can guess, but they are limited by the amount of life they have.
+- The player will guess a single letter, there is no limit how many letters they can guess, but they are limited by the amount of life they have.
 - If the player has already guessed the letter, it doesn't count. The player continues with the next letter.
 - If any of the input matches the underscore, the underscores will be replace with that letter, the play continues.
-- If none of the undersocres represent the letter, the player uses up one of its wrong guesses.
+- If none of the undersocres represent the letter, the player uses up one of its lifes.
 ### Status
 - The player will be shown how many lifes they have left (represented by '+').
 - The player will be shown which letter they have guessed incorectly.
