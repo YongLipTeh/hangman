@@ -1,5 +1,6 @@
 <div align = "center">
-
+  
+![C++man](https://github.com/user-attachments/assets/a791b4a2-6c3c-4ac6-8b3a-3d847a834522)
   
 A classic children word guessing game implemented in C++
 </div>
