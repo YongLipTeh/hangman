@@ -1,5 +1,4 @@
 <div align = "center">
-![Image](https://github.com/user-attachments/assets/1ead9739-d694-4ab3-ba58-b5819492f4f6)
 
   
 A classic children word guessing game implemented in C++
