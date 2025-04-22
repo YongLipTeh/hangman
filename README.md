@@ -8,8 +8,20 @@ A classic children word guessing game implemented in C++
 ## Platform
 This code has been compiled into many platforms depending on what OS you use.
 
-### Windows, macOS, Linux
-For all three platforms, you can play the game by simply running, as long as the platform matches the file
+### Windows, macOS
+For Windows and Mac, you can play the game by simply running, as long as the platform matches the file.
+
+Intel Macs only support intel compiled programs while Apple Silicon Macs can only run M chips compiled program, please download the correct file.
+
+### Linux
+The program is compiled with Intel chip in Arch Linux. To run the program, open terminal, change the directory
+```sh
+$ cd ~/Downloads
+```
+Run it.
+```sh
+$ ./C++manLinux
+```
 
 ## How to Play this Game?
 If you have not played this game, here are the rules for it.
